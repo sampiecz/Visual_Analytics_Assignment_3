@@ -1,0 +1,16 @@
+.d3-svg-container {
+  display: flex;
+  align-items:  center;
+  justify-content:  center;
+
+  svg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: visible;
+    margin-top: 50px;
+    height: 560px;
+    width: 744px;
+  }
+
+}
